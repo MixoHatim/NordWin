@@ -17,8 +17,7 @@ The color palettes are this:
  
 Some of the included files are made by NoTextToSpeech
 
--His chanel:
-[https://www.youtube.com/c/NoTextToSpeech](NoTextToSpeech)
+-His chanel:https://www.youtube.com/c/NoTextToSpeech
 
 
 And some of the files are here on GitHub such as;
